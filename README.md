@@ -1,2 +1,2 @@
 # play-fun
-playing in Go
+playing in Go - Learning to play with pipelines in github
