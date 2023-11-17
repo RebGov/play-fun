@@ -1,3 +1,3 @@
 module github.com/RebGov/play-fun
 
-go 1.21.4
+go 1.21
